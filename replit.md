@@ -6,6 +6,18 @@ CraftAI is a modern static website built with HTML5 and Tailwind CSS. The platfo
 **Current State:** Fully functional static website running on Replit with automated Tailwind CSS build process and deployment configuration.
 
 ## Recent Changes
+- **December 3, 2025**: Complete landing page redesign with dynamic animations
+  - Hero Section: Dynamic fact rotation (40% guidance-seeking, 73% lack sources, 340% visibility boost)
+  - Hero Section: "From Keywords to Intent" with strikethrough Keywords styling
+  - Hero Section: Typewriter animation cycling through AI platforms (ChatGPT, Perplexity, Gemini, Claude, Copilot)
+  - Hero Section: Website input field with "Check your Brand Visibility" CTA
+  - Hero Section: Redesigned trust elements with gradient icons
+  - Questions Section: "No More Google Search for Best Brands" heading with floating questions animation
+  - Dashboard Section: Skeleton loading states, animated counters, platform performance bars
+  - Four Pillars Section: Diagonal ascending layout with micro-interactions on hover
+  - FAQ Section: Collapsible toggle functionality
+  - Social Proof: Floating notification bar with customer success stories
+
 - **December 1, 2025**: Initial project setup in Replit environment
   - Installed Node.js 20 and all npm dependencies
   - Built Tailwind CSS to generate compiled main.css
